@@ -1,6 +1,6 @@
-def imageName="192.168.44.44:8082/docker-local/frontend"
-def dockerRegistry="https://192.168.44.44:8082"
-def registryCredentials="artifactory"
+def imageName="mradamberger/frontend"
+def dockerRegistry=""
+def registryCredentials="ce6bcfba-0c8b-432b-ba9e-732fc772cebb"
 def dockerTag=""
 
 
