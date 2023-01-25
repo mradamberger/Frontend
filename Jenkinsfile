@@ -1,6 +1,6 @@
 def imageName="mradamberger/frontend"
 def dockerRegistry=""
-def registryCredentials="ce6bcfba-0c8b-432b-ba9e-732fc772cebb"
+def registryCredentials="artifactory"
 def dockerTag=""
 
 
