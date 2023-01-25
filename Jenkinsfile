@@ -1,5 +1,5 @@
 def imageName="mradamberger/frontend"
-def dockerRegistry=""
+def dockerRegistry="https://192.168.44.44:8082"
 def registryCredentials="artifactory"
 def dockerTag=""
 
